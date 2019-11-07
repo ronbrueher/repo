@@ -2,9 +2,10 @@
 
 ## Build
 1.	Download the BatchAnalyzer java project from github.
-2.	From the BatchAnalyzer directory, enter:
+2.	From the BatchAnalyzer directory, enter the following two commands to make the build script executable and to build the project:
 
 ~~~
+chmod +x build
 build
 ~~~
 
