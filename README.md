@@ -1,16 +1,16 @@
 # Ron Brueher Skills Assessment - Deliverables
 
 ## 1 - Decomposition
-[Software Architecture Document.docx](deliverables/Software%20Architecture%20Document.docx)
+* Software Architecture Document.docx
 
-[User Stories.docx](deliverables/User%20Stories.docx)
+* User Stories.docx
 
 ## 2 - Software Engineering
 
 Instructions for Building and Running Software Engineering Skills Assessment
 
 ### Build
-1.	Download the BatchAnalyzer java project from github.
+1.	Download the BatchAnalyzer folder from github repository.
 2.	From the BatchAnalyzer directory, enter the following two commands to set ownership and to build the project:
 
 ~~~
@@ -35,4 +35,4 @@ test-runner
 ~~~
 
 ## 3 - SQL
-[query.sql](deliverables/query.sql)
+* query.sql
