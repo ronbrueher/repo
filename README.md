@@ -11,7 +11,7 @@ Instructions for Building and Running Software Engineering Skills Assessment
 
 ### Build
 1.	Download the **BatchAnalyzer** folder from github repository.
-2.	From the **BatchAnalyzer** directory, enter the following two commands to set ownership and to build the project:
+2.	From the **BatchAnalyzer** directory, enter the following two commands to set ownership and build the project:
 
 ~~~
 sudo chown -R USERNAME ./
