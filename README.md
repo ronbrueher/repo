@@ -28,7 +28,7 @@ two-swap-recommendation JSON-FILE
 waste-metric JSON-FILE
 ~~~
 
-2.  Execute units tests by entering the following command:
+2.  Execute JUnit tests by entering the following command:
 
 ~~~
 test-runner
