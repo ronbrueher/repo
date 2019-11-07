@@ -1,0 +1,4 @@
+#!/bin/bash
+echo
+java -jar BatchAnalyzer.jar $1 WasteMetric
+echo

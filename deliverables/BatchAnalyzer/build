@@ -1,0 +1,3 @@
+#!/bin/bash
+javac -cp lib/json-20190722.jar:lib/junit-4.13-rc-1.jar src/com/batchanalyzer/*.java -d .
+jar cmvf META-INF/MANIFEST.MF BatchAnalyzer.jar lib com/batchanalyzer/*.class src/com/batchanalyzer/resources/*.json
