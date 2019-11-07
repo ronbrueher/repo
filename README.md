@@ -10,7 +10,7 @@ build
 ~~~
 
 ## Run
-1.  From the BatchAnalyzer directory, enter one of the following:
+1.  From the BatchAnalyzer directory, enter any of the following commands:
 
 ~~~
 is-invalid-batch JSON-FILE
@@ -19,7 +19,7 @@ two-swap-recommendation JSON-FILE
 waste-metric JSON-FILE
 ~~~
 
-2.  Execute units tests by entering the following:
+2.  Execute units tests by entering the following command:
 
 ~~~
 test-runner
