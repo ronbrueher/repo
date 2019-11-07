@@ -1,9 +1,9 @@
 # Ron Brueher Skills Assessment - Deliverables
 
 ## 1 - Decomposition
-Software Architecture Document.docx
+[Software Architecture Document.docx](deliverables/Software Architecture Document.docx)
 
-User Stories.docx
+[User Stories.docx](deliverables/User Stories.docx)
 
 ## 2 - Software Engineering
 
@@ -35,4 +35,4 @@ test-runner
 ~~~
 
 ## 3 - SQL
-query.sql
+[query.sql](deliverables/query.sql)
