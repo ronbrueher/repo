@@ -1,10 +1,10 @@
 # Ron Brueher Skills Assessment - Deliverables
 
-## 1 Decomposition
+## 1 - Decomposition
 Software Architecture Document.docx
 User Stories.docx
 
-## 2 Software Engineering
+## 2 - Software Engineering
 
 Instructions for Building and Running Software Engineering Skills Assessment
 
@@ -33,3 +33,5 @@ waste-metric JSON-FILE
 test-runner
 ~~~
 
+## 3 - SQL
+query.sql
