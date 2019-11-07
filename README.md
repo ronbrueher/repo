@@ -1,9 +1,9 @@
 # Ron Brueher Skills Assessment - Deliverables
 
 ## 1 - Decomposition
-[Software Architecture Document.docx](deliverables/Software Architecture Document.docx)
+[Software Architecture Document.docx](deliverables/Software%20Architecture%20Document.docx)
 
-[User Stories.docx](deliverables/User Stories.docx)
+[User Stories.docx](deliverables/User%20Stories.docx)
 
 ## 2 - Software Engineering
 
