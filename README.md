@@ -3,7 +3,7 @@
 ## 1 - Decomposition
 * Software Architecture Document.docx
 
-* User Stories.docx
+* [UserStories.md](./UserStories.md)
 
 ## 2 - Software Engineering
 
