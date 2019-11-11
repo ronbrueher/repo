@@ -20,7 +20,7 @@ Key requirements and system constraints that have a significant bearing on the a
 ## 3.	Use-Case View
 ### Actors
 * ### Document Providers
-      `Provide documents to the system.`
+      Provide documents to the system.
       
 * ### Extraction / Enrichment Team
       Team focused on metadata extraction and enrichment for each provided document.
