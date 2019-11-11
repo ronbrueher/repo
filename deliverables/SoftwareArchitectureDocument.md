@@ -42,6 +42,8 @@ A description of the architecture describing the tasks (processes and threads) i
 
 ## 6.	Deployment View
  
+![alt test](assets/SolutionArchitecture.jpg)
+
 *	Document providers and consumers submit, search, and retrieve provided documents using new nano-app or via an extension to the existing enterprise application.
 *	Extraction / Enrichment Team enhances and improves document metadata and pushes new releases into production.
 *	Microservices allow each service to be independently scaled to meet demand for the client applications.
