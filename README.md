@@ -35,4 +35,4 @@ test-runner
 ~~~
 
 ## 3 - SQL
-* query.sql
+* [query.sql](deliverables/query.sql)
